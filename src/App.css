@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #eaeca69d;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn-primary{
+  margin-top: 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+.btn-danger{
+  margin-top: 10px;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+.reminderCheckbox{
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.btn-success{
+  margin-top: 5px;
+}
